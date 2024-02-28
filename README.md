@@ -55,7 +55,5 @@ The project uses a dataset of movies with features such as title, genre, plot, e
 - Mehrdad Orouei
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
  
