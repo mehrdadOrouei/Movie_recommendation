@@ -39,7 +39,7 @@ This Python project utilizes Natural Language Processing (NLP) techniques to rec
 
 ## Dataset
 
-The project uses a dataset of movies with features such as title, genre, plot, etc. The dataset is preprocessed to extract relevant information for recommendation.
+The project uses a dataset of movies with features such as title, genre, crew, etc. The dataset is preprocessed to extract relevant information for recommendation.
 
 ## Approach
 
