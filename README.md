@@ -32,7 +32,7 @@ This Python project utilizes Natural Language Processing (NLP) techniques to rec
 
 1. Run the main script:
    ```
-   python main.py
+   jupyter notebook movie_recommendation.ipynb
    ```
 
 2. Follow the prompts to enter your preferences and get movie recommendations.
@@ -52,7 +52,7 @@ The project uses a dataset of movies with features such as title, genre, plot, e
 ## Contributors
 
 
-- Mehrdad Orouei
+- Mehrdad.orouei@yahoo.com
 
 
 
